@@ -21,3 +21,7 @@
 ![Captura de Tela 2021-07-21 às 17 21 37](https://user-images.githubusercontent.com/83181304/126555208-eddafd2d-364f-48d6-8f7b-2d629025b6af.png)
 
 
+## Dasafio_04_Quantidade_de_Números_Positivos 🥇
+
+![Captura de Tela 2021-07-28 às 21 01 42](https://user-images.githubusercontent.com/83181304/127411684-44e8f1c7-c06d-4bd9-bd47-dcb6f5929166.png)
+
