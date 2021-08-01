@@ -34,3 +34,13 @@
 ## Dasafio_06_Análise_de_Números 🥇
 
 ![Captura de Tela 2021-08-01 às 16 17 24](https://user-images.githubusercontent.com/83181304/127782928-11d6eb8d-c673-4ed4-947c-6bc6ce345310.png)
+
+
+## Dasafio_07_Contagem_de_Cédulas 🥇
+
+
+![Captura de Tela 2021-08-01 às 16 23 10](https://user-images.githubusercontent.com/83181304/127783079-0b03e3b8-d3f9-475b-86d3-2a8b3ca69832.png)
+![Captura de Tela 2021-08-01 às 16 23 28](https://user-images.githubusercontent.com/83181304/127783081-6bd7b5e6-c855-4bd8-8c97-f90464d3286c.png)
+
+
+
