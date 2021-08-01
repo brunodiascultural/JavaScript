@@ -43,4 +43,9 @@
 ![Captura de Tela 2021-08-01 às 16 23 28](https://user-images.githubusercontent.com/83181304/127783081-6bd7b5e6-c855-4bd8-8c97-f90464d3286c.png)
 
 
+## Dasafio_08_Consumo_Médio_do_Automóvel 🥇
+
+
+![Captura de Tela 2021-08-01 às 16 29 48](https://user-images.githubusercontent.com/83181304/127783198-1e77eea4-3ea2-472b-b1f6-7503aff78e9c.png)
+![Captura de Tela 2021-08-01 às 16 30 01](https://user-images.githubusercontent.com/83181304/127783202-59a4ede9-7e90-435a-b885-73bbd3b70ba4.png)
 
