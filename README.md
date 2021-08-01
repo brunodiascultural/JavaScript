@@ -29,3 +29,8 @@
 ## Dasafio_05_Exibindo_Números_Pares 🥇
 
 ![Captura de Tela 2021-07-29 às 12 31 43](https://user-images.githubusercontent.com/83181304/127521924-f995817e-8369-45af-a91d-77649abac46f.png)
+
+
+## Dasafio_06_Análise_de_Números 🥇
+
+![Captura de Tela 2021-08-01 às 16 17 24](https://user-images.githubusercontent.com/83181304/127782928-11d6eb8d-c673-4ed4-947c-6bc6ce345310.png)
